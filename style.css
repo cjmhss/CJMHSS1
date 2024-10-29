@@ -626,7 +626,8 @@ ul {
   bottom: 0px;
   font-size: 10px;
   font-weight: semi-bold;
-  display: absolute;
+  display: flex;
+  flex-direction: column;
   top: -500px;
 }
 .mc{

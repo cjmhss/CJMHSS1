@@ -243,7 +243,7 @@ header:hover{
   height: 254px;
   perspective: 1000px;
   font-family: sans-serif;
-  margin: 100px 0 0 200px;
+  margin: 100px 0 0 300px;
   cursor: pointer;
 }
 
@@ -301,7 +301,7 @@ header:hover{
   width: 500px;
   height: 254px;
   margin-top: -250px;
-  margin-left: 450px;
+  margin-left: 550px;
   background-color: #011522;
   border-radius: 8px;
   display: absolute;

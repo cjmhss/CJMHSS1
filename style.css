@@ -627,6 +627,7 @@ ul {
   font-size: 10px;
   font-weight: semi-bold;
   margin-top:-500px;
+  position: absolute;
 }
 .mc{
     margin-left: 250px;

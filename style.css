@@ -628,8 +628,5 @@ ul {
   font-weight: semi-bold;
   display: flex;
   flex-direction: column;
-  top: -2000px;
-}
-.mc{
-    margin-left: 100px;
+  margin-top: -200px;
 }

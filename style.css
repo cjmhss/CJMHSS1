@@ -628,8 +628,8 @@ ul {
   font-weight: semi-bold;
   display: flex;
   flex-direction: column;
-  top: -900px;
+  top: -2000px;
 }
 .mc{
-    margin-left: 200px;
+    margin-left: 100px;
 }
